@@ -28,6 +28,9 @@
     "solhint": "^3.3.6",
     "solidity-coverage": "^0.7.13"
   },
+  "dependencies": {
+    "@shawn88/cssdao-utils":"0.0.5"
+  },
   "mocha": {
     "timeout": 10000000
   }
